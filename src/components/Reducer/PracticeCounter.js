@@ -10,7 +10,6 @@ function Reducer(state,action){
                     return 0;
     }
 }
-    
 
     
 
